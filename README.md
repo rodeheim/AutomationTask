@@ -3,4 +3,4 @@
 `npm install supertest`
 
 # Test Execution
-npm run test 
+npm test 
